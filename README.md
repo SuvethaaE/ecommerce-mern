@@ -11,3 +11,4 @@
    .render products
    .style products
 5. create css styling for the featured products.
+6. create a button for add to cart
