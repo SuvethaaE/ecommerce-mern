@@ -10,3 +10,4 @@
    .add product images
    .render products
    .style products
+5. create css styling for the featured products.
