@@ -15,3 +15,4 @@
 7. add routing for that install dependencies(react-router-dom)
 8. create router for home screen
 9. create router for product screen
+10. Replacing ahref with Link for easy switching
