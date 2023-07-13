@@ -12,3 +12,10 @@
 8. create router for home screen
 9. create router for product screen
 10. Replacing ahref with Link for easy switching
+11. create a node.js server:
+    run npm init,update package.json
+12. install express
+13. create server.js
+14. added get api (/api/products) to list the products
+15. added json viewer extension in google chrome
+16. install nodemon
