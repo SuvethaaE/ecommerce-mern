@@ -12,3 +12,6 @@
    .style products
 5. create css styling for the featured products.
 6. create a button for add to cart
+7. add routing for that install dependencies(react-router-dom)
+8. create router for home screen
+9. create router for product screen
