@@ -19,3 +19,6 @@
 14. added get api (/api/products) to list the products
 15. added json viewer extension in google chrome
 16. install nodemon
+17. fetch the products from the backend
+18. set the proxy in the package.json
+19. then install the axios ,using state,effect,reducer hook
