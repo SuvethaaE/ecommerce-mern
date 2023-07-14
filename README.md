@@ -22,4 +22,5 @@
 17. fetch the products from the backend
 18. set the proxy in the package.json
 19. then install the axios ,using state,effect,reducer hook.
-20. manage state by reducer hook
+20. manage state by reducer hook.
+21. Add bootstrap UI Framework,update App.js
