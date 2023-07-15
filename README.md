@@ -24,3 +24,4 @@
 19. then install the axios ,using state,effect,reducer hook.
 20. manage state by reducer hook.
 21. Add bootstrap UI Framework,update App.js
+22. create Product and Rating Component
